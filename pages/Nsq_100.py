@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 # matplotlib.use('Agg')
 import datetime
-import pyfolio
+import pyfo
 from copy import deepcopy
 from finrl.meta.preprocessor.yahoodownloader import YahooDownloader
 from finrl.meta.preprocessor.preprocessors import FeatureEngineer, data_split
@@ -100,7 +100,7 @@ baseline_returns = get_daily_return(baseline_df, value_col_name="close")
 #test_returns.to_csv("FinRL-master/backend/data/test_return.csv")
 #baseline_returns.to_csv("FinRL-master/backend/data/baseline_return.csv")
 
-f=pyfolio.create_full_tear_sheet(returns=test_returns, benchmark_rets=baseline_returns, set_context=False)
+f=pyfo.create_full_tear_sheet(returns=test_returns, benchmark_rets=baseline_returns, set_context=False)
 #plt.savefig("FinRL-master/backend/image/return_compare.png")
 
 fig= plt.figure()

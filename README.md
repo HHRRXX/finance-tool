@@ -10,7 +10,9 @@ Run this command in your termainal `pip install -r requirements.txt`
 
 ## Run Code
 `cd finance-tool`
+
 `streamlit run home.py`
+
 Copy your Local URL in your web browser.
 
 
