@@ -2,7 +2,7 @@
 ## SECTION 1 : IRS-PM-ISY5002-2022-10-26-GROUP19-Finance-Tool
 ## Finance-Tool
 
-<img src="SystemCode/static/food-image.jpg"
+<img src="figures/Returns.png"
      style="float: left; margin-right: 0px;" />
 
 ---  
@@ -55,16 +55,16 @@ You can also visit our website by click https://sezer12138-finance-tool-home-rnj
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
-`Please refer to Project report at Github Folder: ProjectReport`
+`Please refer to Project report at Github Folder: Project_Report`
 
-`<File Link>` : <https://github.com/ISS-IS02PT/IRS-PM-ISY5001-2020-01-18-GROUP5-A.I.-Food-Recommender/tree/master/ProjectReport>
+`<File Link>` : <https://github.com/sezer12138/finance-tool/blob/main/Project_Report.pdf>
 
 ---
 ## SECTION 7 : MISCELLANEOUS
-`Please refer to the Jupyter Notebook 'Food_Data_EDA.ipynb' for data analysis at Github Folder: Miscellaneous`
+`Please refer to the Jupyter Notebook 'Train.ipynb' for data analysis at Github Folder: Algorithms`
 
 
-`<File Link>` : <https://github.com/ISS-IS02PT/IRS-PM-ISY5001-2020-01-18-GROUP5-A.I.-Food-Recommender/tree/master/Miscellaneous>
+`<File Link>` : <https://github.com/sezer12138/finance-tool/blob/main/Algorithms/Train.ipynb>
 
 ---
 
