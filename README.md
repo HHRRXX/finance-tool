@@ -26,7 +26,7 @@ We use multiple Deep Reinforcement Learning algorithm to train the policy and Q-
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
 | Yang Wenkai | A0261636A | Backend Application Deveopment, Algorithm/Model Development and Training | yangwenkai666@outlook.com |
-| Huang Runxiang | A0261627A | Backend Application Deveopment, UI/UX Development| alberthanu@gmail.com |
+| Huang Runxiang | A0261627A | Backend Application Deveopment, UI/UX Development| runxiang.huang@u.nus.edu |
 | Chen Haoyang | A0261905E | Backend Application Deveopment, UI/UX Development | Hapyangc0308@gmail.com |
 
 ---
