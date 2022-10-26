@@ -4,6 +4,7 @@
 The user just input your trade start date, trade end date and initial asset.
 The main code is home.py which has two pages Dow_30.py and Nsq_100.py.
 The details code is in finrl folder, the user information will be stored in data.db.
+You can also visit our website by click https://sezer12138-finance-tool-home-rnjqsu.streamlitapp.com/
 
 ## Installation
 Run this command in your termainal `pip install -r requirements.txt`
