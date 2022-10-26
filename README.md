@@ -17,3 +17,4 @@ Run this command in your termainal `pip install -r requirements.txt`
 Copy your Local URL in your web browser.
 
 
+## More details in the project report.
