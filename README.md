@@ -34,7 +34,7 @@ We use multiple Deep Reinforcement Learning algorithm to train the policy and Q-
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 `Please refer to the video at Youtube`
 
-`<Folder Link>` : <https://www.youtube.com/watch?v=OVacIsCKnGA>
+`<Video Link>` : <https://www.youtube.com/watch?v=OVacIsCKnGA>
 
 ---
 
