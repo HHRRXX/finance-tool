@@ -32,9 +32,9 @@ We use multiple Deep Reinforcement Learning algorithm to train the policy and Q-
 ---
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-`Please refer to the video at Github Folder: Video`
+`Please refer to the video at Youtube`
 
-`<Folder Link>` : <https://github.com/ISS-IS02PT/IRS-PM-ISY5001-2020-01-18-GROUP5-A.I.-Food-Recommender/tree/master/Video>
+`<Folder Link>` : <https://www.youtube.com/watch?v=OVacIsCKnGA>
 
 ---
 
